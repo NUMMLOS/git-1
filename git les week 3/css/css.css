@@ -1,0 +1,24 @@
+*{
+margin: 0;
+padding: 0;
+}
+html{
+background-color: rgba(148, 241, 148, 0.845);
+background-image: url(../img/name.jpg);
+background-size: cover;
+}
+body{
+background-color: rgba(148, 241, 148, 0.845);
+}
+header{
+    height: 10vh;
+    background-color: rgba(218, 165, 32, 0.904);
+}
+main{
+    height: 80vh;
+    background-color: rgba(255, 255, 255, 0.788);
+}
+ footer{
+    height: 10vh;
+    background-color: rgba(218, 165, 32, 0.766);
+ }
